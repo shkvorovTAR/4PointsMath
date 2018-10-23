@@ -1,0 +1,4 @@
+Quadrilateral with points: A[0;0] B[4;0] C[4;4] D[0;4] 
+Has perimeter 16 and area 16
+Quadrilateral with points: Q[-10;-10] W[10;-10] E[10;10] R[-10;10] 
+Has perimeter 80 and area 400
